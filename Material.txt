@@ -1,0 +1,16 @@
+Teile:
+
+3x HC-SR04
+2x DC Motor
+1x H-Brücke
+1x Taster
+1x 10k? Widerstand
+1x Arduino Uno
+2x LED Orange
+1x RGB Led (gemeinsam Minus)
+1x 9V Clip
+1x 9V Block
+4x Schrauben M4
+12x Muttern M4
+1x Holzplatte 90 x160 mm
+
